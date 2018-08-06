@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Testiamo cosa"
+date:   2018-08-07 00:16:40 +0200
+---
+
+un post
