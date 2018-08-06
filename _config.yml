@@ -1,13 +1,12 @@
 title: Substitoad
 description: >- # this means to ignore newlines until "baseurl:"
     A Yu-Gi-Oh! blog from a non Yu-Gi-Oh! player.
-
+rss: rss
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-paginator.posts: 3
 theme: minima
 plugins:
   - jekyll-feed
